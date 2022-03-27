@@ -31,9 +31,8 @@ Expected Output :
 
 */
 
-console.log("Zadaci za samostalan rad\n---------------------------------------")
-// Zadatak 1 
-console.log("Zadatak 1")
+console.log("Zadaci za samostalan rad\n---------------------------------------");
+console.log("Zadatak 1");
 
 let day = new Date();
 
